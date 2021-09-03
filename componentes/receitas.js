@@ -1,7 +1,7 @@
 import Menu from "./menu"
 import Image from 'next/image'
 import Link  from 'next/link'
-import Foto from '../imagens/hamburguer.jpg'
+import Foto from '../imagens/foto1.png'
 import styles from '../styles/Home.module.css'
 
 function Receitas(){
