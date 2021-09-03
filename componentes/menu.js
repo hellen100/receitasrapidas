@@ -1,27 +1,43 @@
-import Link from 'next/link'
-import Image from 'next/image'
-import Busca from '../imagens/busca.png'
+import styles from '../styles/Home.module.css'
 
-function MENU() {
+function Menu(){
     return (
         <>
-        <div>
-            <navbar>
+           <div>
+        <navbar>
             <Link href='/home'>Receitas rápidas</Link>
             <input 
             type="text"
             id="pesquisa" 
             name="pesquisa" 
             value="Pesquisar receita" />
-            <Image src={Busca} width={22} height={22}/>
-            </navbar>
-            
-        </div>
-        <p>
            
-                   </p>
+            </navbar>
+        </div>   
+        <p>
+            <ul>
+                <li>A</li>
+                <li>B</li>
+                <li>C</li>
+                <li>D</li>
+                <li>E</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+                <li>A</li>
+            </ul>
+            <hr></hr>
+        </p>
         </>
     )
 }
 
-export default MENU
+export default Menu
