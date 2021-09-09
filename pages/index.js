@@ -26,7 +26,7 @@ export default function index() {
         <p className={styles.description}>
           Get started by editing{' '}
          <p className={styles.subtitle}>
-          Aqui você irá desfrutar de <br/>comidas deliciosas, hlrgfuirg{' '}
+          Aqui você irá desfrutar de <br/>comidas deliciosas.{' '}
           <code className={styles.code}></code>
         </p>
          </p>

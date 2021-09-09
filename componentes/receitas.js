@@ -13,6 +13,7 @@ function Receitas(){
            hello world
            <Footer />
         </>
+        
     )
 }
 
