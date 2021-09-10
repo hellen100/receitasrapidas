@@ -1,6 +1,6 @@
 import image from 'next/image'
 import styles from '../styles/Home.module.css'
-
+import Link  from 'next/Link'
 function Menu(){
     return (
         <>
@@ -18,6 +18,7 @@ function Menu(){
         <p>
             <ul>
                <li>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</li>
+
             </ul>
             <hr></hr>
         </p>
