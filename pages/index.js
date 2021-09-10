@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import Link  from 'next/link'
+import Link  from 'next/Link'
 import styles from '../styles/Home.module.css'
 
 export default function index() {
@@ -22,8 +22,9 @@ export default function index() {
             Aqui você irá desfrutar de <br/>
             comidas deliciosas, hlrgfuirg
           </p>
-          <a href="/home"><button className={styles.button}>CLIQUE PARA COZINHAR</button></a>
-         
+          <Link href="/home">
+          <a ><button className={styles.button}>CLIQUE PARA COZINHAR</button></a>
+          </Link>
           </p>
         <Image src="/frango.PNG" width={400} height={280} />
         </ div>
