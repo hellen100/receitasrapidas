@@ -5,7 +5,7 @@ function Menu(){
         <>
            <div>
         <navbar>
-            <a href='/home'>Receitas rápidas</a>
+            <a href="/home">Receitas rápidas</a>
             <input 
             type="text"
             id="pesquisa" 
@@ -16,7 +16,7 @@ function Menu(){
         </div>   
         <p>
             <ul>
-                <li>A</li>
+               <li>A</li>
                 <li>B</li>
                 <li>C</li>
                 <li>D</li>
@@ -45,35 +45,37 @@ function Menu(){
             </ul>
             <hr></hr>
         </p>
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Receita de Abobrinha &rarr;</h2>
-            <p>Bolinho de Abobrinha Pratico e Rápido de se Fazer.</p>
+          
+        <div className={styles.gridd}>
+          <a href="/Receita" className={styles.card}>
+            <h3>Receita de Abobrinha&rarr;</h3>
+            <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Receita de Frango &rarr;</h2>
-            <p>Filé de Frango na Panela de Pressão!</p>
+            <h3>Receita de Frango &rarr;</h3>
+            <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h2>Receita de Abacaxi &rarr;</h2>
-            <p>Brigadeiro de Abacaxi Pratico de se Fazer.</p>
+            <h3>Receita de Abacaxi &rarr;</h3>
+            <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Receita de Pimentão &rarr;</h2>
+            <h3>Receita de Pimentão &rarr;</h3>
             <p>
-              Pimentão Recheado com Queijo Cottage.
+              Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
-        </div>        
+        </div>    
+
         </>
     )
 }
