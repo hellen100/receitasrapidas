@@ -1,5 +1,6 @@
 import Menu from './menu'
 import Footer from './footer'
+import Image from 'next/image'
 
 
 
@@ -7,10 +8,34 @@ function ModeloReceita2(){
     return (
         
         <>
+        <Image src="/foto2.png" width={400} height={280} />
         
+         <h1>Filé Frango na Panela de Pressão</h1>
+        <h2>INGREDIENTES</h2>
+<p>
+<ul>
+    <li>2 colheres de sopa de óleo</li>
+    <li>1/2 cebola picada</li>
+    <li>4 filés de frango</li>
+    <li>1 tomate picado em cubos</li>
+    <li>Sal a gosto</li >
+    <li>Pimenta-do-reino a gosto</li>
+    <li>1/2 colher de sopa de colorau</li >
+    <li>Orégano a gosto</li >
+
+</ul>
+<h2>MODO  DE  PREPARO</h2>
+
+<ul>
+    <li>Na panela de pressão, coloque o óleo e doure a cebola.</li>
+    <li>Em seguida adicione o frango e o tomate.</li>
+    <li>Tempere com sal, pimenta, colorau e orégano.</li>
+    <li>Misture tudo, tampe a panela e deixe cozinhar na pressão por cerca 8 minutos.</li>
+    <li>Retire a pressão com cuidado e está pronto para servir.</li>
 
 
-<p>fazer o texto da receita com a foto e modo de preparo Receita 2
+</ul>
+
     
 </p>
 
