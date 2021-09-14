@@ -1,17 +1,17 @@
 import Menu from '../componentes/menu'
 import Footer from '../componentes/footer'
-import Centro from '../componentes/centro'
+import ModeloReceita1 from '../componentes/modeloreceita1'
 
 
-function Home(){
+function Receita1(){
     return (
         
         <>
         <Menu />
-        <Centro />
+        <ModeloReceita1 />
         <Footer />
         </>
     )
 }
 
-export default Home
+export default Receita1

@@ -2,17 +2,17 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 
-function Receita(){
+function Centro(){
     return (
         <>           
          <div className={styles.gridd}>
-          <a href="/Receita" className={styles.card}>
+          <a href="/receita1" className={styles.card}>
             <h3>Receita de Abobrinha&rarr;</h3>
             <p>Rápido e Pratica.</p>
             <Image src="/abobrinha2.png" width={940} height={480} />
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="/receita2" className={styles.card}>
             <h3>Receita de Frango &rarr;</h3>
             <p>Rápido e Pratica.</p>
             <Image src="/Imagen Frango.png" width={900} height={480} />
@@ -76,4 +76,4 @@ function Receita(){
     )
 }
 
-export default Receita
+export default Centro
