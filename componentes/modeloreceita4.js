@@ -1,13 +1,14 @@
 import Menu from './menu'
 import Footer from './footer'
 import Image from 'next/image'
-
+import styles from '../styles/Receitas.module.css'
 
 
 function ModeloReceita4(){
     return (
         
         <>
+         <div className={styles.container}>
          <Image src="/foto4.png" width={400} height={280} />
         
         <h1>PIMENTÃO RECHEADO COM QUEIJO COTTAGE</h1>
@@ -40,7 +41,7 @@ function ModeloReceita4(){
 
 </ul>
 </p>
-
+</div>
 
 
         </>

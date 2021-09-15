@@ -1,0 +1,12 @@
+.container {
+display: flex;
+width: 50vw;
+height: 100vh;
+background: #F5F4F4;
+border-radius: 5px;
+justify-content: center;
+flex-direction: column;
+margin-left: 25vw;
+margin-top: 50px
+}
+

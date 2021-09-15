@@ -1,12 +1,14 @@
 import Menu from './menu'
 import Footer from './footer'
 import Image from 'next/image'
+import styles from '../styles/Receitas.module.css'
 
 
 function ModeloReceita6(){
     return (
         
         <>
+         <div className={styles.container}>
           <Image src="/panqueca.png" width={400} height={280} />
         
         <h1>Panqueca</h1>
@@ -36,7 +38,7 @@ function ModeloReceita6(){
     
 </ul>
 </p>
-
+</div>
 
 
         </>

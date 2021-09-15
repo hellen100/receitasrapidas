@@ -1,6 +1,7 @@
 import Menu from './menu'
 import Footer from './footer'
 import Image from 'next/image'
+import styles from '../styles/Receitas.module.css'
 
 
 
@@ -8,6 +9,7 @@ function ModeloReceita2(){
     return (
         
         <>
+        <div className={styles.container}>
         <Image src="/foto2.png" width={400} height={280} />
         
          <h1>Filé Frango na Panela de Pressão</h1>
@@ -40,7 +42,7 @@ function ModeloReceita2(){
 </p>
 
 
-
+</div>
         </>
     )
 }
