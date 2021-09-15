@@ -12,7 +12,7 @@ function Footer(){
                 >
                     Powered by{' '}
                 <span className={styles.logo}>
-                    <Image src="/footer.png" alt="Vercel Logo" width={72} height={16} />
+                    <Image src="/footer.png" alt="Vercel Logo" width={720} height={160} />
                 </span>
                 </a>
             </footer>
