@@ -8,7 +8,7 @@ function ModeloReceita5(){
         
         <>
          <div className={styles.container}>
-         <Image src="/torta.png" width={400} height={280} />
+         <Image src="/torta.png" width={750} height={750} />
         
         <h1>Torta de Morango</h1>
 
@@ -20,11 +20,11 @@ function ModeloReceita5(){
 <ul>
     <li>1/2 xícara de chá de margarina ou manteiga</li>
     <li>1 xícara de chá de farinha de trigo</li>
-    <li>1/2 xícara de chá de Amido de Milho Maizenamaizena Logo</li>
+    <li>1/2 xícara de chá de Amido de Milho Maizena Logo</li>
     <li>1 gema</li>
     <li>1 colher de sopa de açúcar</li >
     <li>2 colheres de chá de essência de baunilha</li>
-    <li>1/2 xícara de chá de Amido de Milho Maizenamaizena Logo</li >
+    <li>1/2 xícara de chá de Amido de Milho Maizena Logo</li >
     <li>3 xícaras de chá de leite</li >
     <li>1/2 xícara de chá de açúcar</li >
     <li>1/2 tablete de chocolate branco picado Cobertura</li>
