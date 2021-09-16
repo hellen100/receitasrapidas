@@ -23,22 +23,17 @@ function ModeloReceita1(){
     <li>Salsinha a gosto</li>
     <li>Sal e pimenta do reino a gosto</li >
     <li>Óleo para fritar</li >
-
- 
     
 </ul>
-
-
 
 <h2>MODO  DE  PREPARO</h2>
 
 <ul>
-    <li>Em uma tigela grande coloque todos os ingredientes,menos os ovos e a farinha de trigo.</li>
-    <li>Bata os ovos e junte à mistura, depois acrescente a farinha até dar ponto, tem que ficar consistente para poder fritar sem desmanchar.</li>
-    <li>Depois com uma colher pegue um pouco da massa e frite em óleo bem quente até dourar.</li>
-    <li>Escorra em papel toalha e sirva em seguida.</li>
+    Em uma tigela grande coloque todos os ingredientes,menos os ovos e a farinha de trigo.
+    Bata os ovos e junte à mistura, depois acrescente a farinha até dar ponto, tem que ficar consistente para poder fritar sem desmanchar.
+    Depois com uma colher pegue um pouco da massa e frite em óleo bem quente até dourar.
+    Escorra em papel toalha e sirva em seguida.
    
-
 </ul>
 
     
