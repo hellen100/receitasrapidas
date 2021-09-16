@@ -10,7 +10,7 @@ function ModeloReceita1(){
         <>
         <div className={styles.container}>
           <Image src="/foto1.png" width={400} height={280} />
-<h1>Bolinho de Abóbora</h1>
+<h1>Bolinho de Abóbrinha</h1>
 
 <h2>INGREDIENTES</h2>
 <p> 
