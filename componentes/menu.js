@@ -5,7 +5,7 @@ function Menu(){
     return (
         <>
            <div className={styles.container}>
-           <h1><a href="/home">Receitas rápidas</a></h1>
+           <h1><Link href="/home"><a>Receitas rápidas</a></Link></h1>
     
            
             <input 
