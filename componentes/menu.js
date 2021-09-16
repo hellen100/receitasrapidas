@@ -1,6 +1,7 @@
 import image from 'next/image'
 import Link  from 'next/link'
 import styles from '../styles/Menu.module.css'
+
 function Menu(){
     return (
         <>
