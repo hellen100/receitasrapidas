@@ -9,7 +9,7 @@ function ModeloReceita5(){
         <>
          <div className={styles.container}>
           <div className={styles.div7}>  
-         <Image src="/torta1.png" layout='fill' objectFit='cover' />
+         <Image src="/torta1.png" layout='fill' objectFit='cover'/>
          </div> 
         
          <h1>Torta de Morango</h1>
