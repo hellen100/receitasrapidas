@@ -43,14 +43,14 @@ function Centro(){
           <Link href="/receita5">
           <a  className={styles.card}>
            <h3>Receita Torta de Morango&rarr;</h3>
-            <p>Rápido e Pratica.</p>
+            <p>Rápido e Prática.</p>
             <Image src="/torta1.png" width={940} height={480} />
           </a>
           </Link>
           <Link href="/receita6">
           <a  className={styles.card}>
             <h3>Receita de Panqueca &rarr;</h3>
-            <p>Rápido e Pratica.</p>
+            <p>Rápido e Prática.</p>
             <Image src="/panqueca.png" width={900} height={480} />
           </a>
           </Link>
@@ -58,7 +58,7 @@ function Centro(){
           <Link href="/receita7">
           <a  className={styles.card}>
             <h3>Receita de Lasanha &rarr;</h3>
-            <p>Rápido e Pratica.</p>
+            <p>Rápido e Prática.</p>
             <Image src="/lasanha.png" width={900} height={480} />
           </a>
           </Link>
@@ -67,7 +67,7 @@ function Centro(){
           <a  className={styles.card}>
              <h3>Receita de Bolo de Cenoura &rarr;</h3>
             <p>
-            Rápido e Pratica.
+            Rápido e Prática.
             </p>
             <Image src="/bolo.png" width={900} height={480} />
           </a>
