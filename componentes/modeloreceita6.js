@@ -38,7 +38,22 @@ function ModeloReceita6(){
     <li>Cubra com o molho de tomate, polvilhe com o parmesão e leve ao forno médio, pré aquecido, por 20 minutos.</li>
     
 </ul>
+
 </p>
+            <footer className={styles.footer}>
+              
+              <a
+              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+                  Powered by{' '}
+              <span className={styles.logo}>
+                  <Image src="/footer.png" alt="Vercel Logo" width={720} height={160} />
+              </span>
+              </a>
+              
+          </footer>   
 </div>
 
 

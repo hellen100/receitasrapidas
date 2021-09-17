@@ -46,8 +46,22 @@ Acrescente o chocolate e misture até obter uma consistência homogênea.
 Reserve até amornar. Coloque o recheio reservado sobre a massa, distribua as fatias de morango uma ao lado da outra e finalize polvilhando o chocolate ralado.
 Leve à geladeira por 1 hora e sirva gelada.
 </ul>
-</p>
 
+</p>
+            <footer className={styles.footer}>
+              
+              <a
+              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+                  Powered by{' '}
+              <span className={styles.logo}>
+                  <Image src="/footer.png" alt="Vercel Logo" width={720} height={160} />
+              </span>
+              </a>
+              
+          </footer>   
 </div>
 
 

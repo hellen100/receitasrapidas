@@ -38,7 +38,23 @@ function ModeloReceita3(){
     <li>Faça bolinhas com a mão untada com água, passe no açúcar cristal ou coco ralado e coloque em forminhas de brigadeiro.</li>
    
 </ul>
+
 </p>
+            <footer className={styles.footer}>
+              
+              <a
+              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+                  Powered by{' '}
+              <span className={styles.logo}>
+                  <Image src="/footer.png" alt="Vercel Logo" width={720} height={160} />
+              </span>
+              </a>
+              
+          </footer>   
+
 </div>
         </>
     )

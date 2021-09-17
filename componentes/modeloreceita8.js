@@ -43,7 +43,22 @@ function ModeloReceita8(){
     Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture.
     Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo.
 </ul>
+
 </p>
+            <footer className={styles.footer}>
+              
+              <a
+              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              target="_blank"
+              rel="noopener noreferrer"
+              >
+                  Powered by{' '}
+              <span className={styles.logo}>
+                  <Image src="/footer.png" alt="Vercel Logo" width={720} height={160} />
+              </span>
+              </a>
+              
+            </footer>   
 </div>
 
 
