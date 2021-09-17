@@ -10,8 +10,10 @@ function ModeloReceita2(){
         
         <>
         <div className={styles.container}>
-        <Image src="/foto2.png" width={400} height={280} />
-        
+         <div className={styles.div7} >
+        <Image src="/foto2.png" layout='fill'/>
+        </div>
+
          <h1>Filé Frango na Panela de Pressão</h1>
         <h2>INGREDIENTES</h2>
 <p>

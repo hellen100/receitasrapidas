@@ -9,8 +9,11 @@ function ModeloReceita4(){
         
         <>
          <div className={styles.container}>
-         <Image src="/foto4.png" width={400} height={280} />
-        
+
+          <div className={styles.div7}>  
+         <Image src="/foto4.png" width={400} height={280} /> 
+         </div> 
+
         <h1>PIMENTÃO RECHEADO COM QUEIJO COTTAGE</h1>
 
        <h2>INGREDIENTES</h2>

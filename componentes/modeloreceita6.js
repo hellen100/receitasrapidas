@@ -9,8 +9,9 @@ function ModeloReceita6(){
         
         <>
          <div className={styles.container}>
+          <div  className={styles.div7}>  
           <Image src="/panqueca.png" width={400} height={280} />
-        
+          </div> 
         <h1>Panqueca</h1>
 
        <h2>INGREDIENTES</h2>

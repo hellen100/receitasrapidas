@@ -8,7 +8,9 @@ function ModeloReceita7(){
         
         <>
          <div className={styles.container}>
-         <Image src="/lasanha.png" width={400} height={280} />
+             <div className={styles.div7}>
+                
+         <Image src="/lasanha.png" width={450} height={280} /></div>
         
         <h1>Lasanha</h1>
 

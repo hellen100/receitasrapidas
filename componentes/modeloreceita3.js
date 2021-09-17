@@ -9,7 +9,9 @@ function ModeloReceita3(){
         
         <>
            <div className={styles.container}>
+         <div className={styles.div7}>
          <Image src="/foto3.png" width={400} height={280} />
+         </div>
         
          <h1>Brigadeiro de Abacaxi</h1>
 
