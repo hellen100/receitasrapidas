@@ -9,7 +9,7 @@ function Centro(){
           <Link href="/receita1" >
            <a className={styles.card}>
             <h3>Receita de Abobrinha&rarr;</h3>
-            <p>Rápido e Pratica.</p>
+            <p>Rápido e Prática.</p>
             <Image src="/abobrinha2.png" width={940} height={480} />
           </a>
           </Link>
@@ -17,7 +17,7 @@ function Centro(){
           <Link href="/receita2">
           <a  className={styles.card}>
             <h3>Receita de Frango &rarr;</h3>
-            <p>Rápido e Pratica.</p>
+            <p>Rápido e Prática.</p>
             <Image src="/Imagen Frango.png" width={900} height={480} />
           </a>
           </Link>
@@ -25,7 +25,7 @@ function Centro(){
           <Link href="/receita3">
           <a  className={styles.card}>
             <h3>Receita de Abacaxi &rarr;</h3>
-            <p>Rápido e Pratica.</p>
+            <p>Rápido e Prática.</p>
             <Image src="/abacaxi.png" width={900} height={480} />
           </a>
           </Link>
@@ -34,7 +34,7 @@ function Centro(){
           <a  className={styles.card}>
             <h3>Receita de Pimentão &rarr;</h3>
             <p>
-            Rápido e Pratica.
+            Rápido e Prática.
             </p>
             <Image src="/pimentão.png" width={900} height={480} />
           </a>
