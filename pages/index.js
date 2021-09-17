@@ -19,7 +19,7 @@ export default function index() {
           <a ><button className={styles.button}>CLIQUE PARA COZINHAR</button></a>
           </Link>
           </p>
-        <Image src="/frango.png" width={400} height={250} />
+        <Image src="/frango.jpg" width={400} height={250} />
         </ div>
       </main>
     </div>

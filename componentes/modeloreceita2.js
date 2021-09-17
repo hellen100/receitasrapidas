@@ -11,7 +11,7 @@ function ModeloReceita2(){
         <>
         <div className={styles.container}>
          <div className={styles.div7} >
-        <Image src="/foto2.png" layout='fill'/>
+            <Image src="/foto2.png" layout='fill' objectFit='cover'/>
         </div>
 
          <h1>Filé Frango na Panela de Pressão</h1>
