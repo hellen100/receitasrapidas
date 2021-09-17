@@ -13,13 +13,13 @@ export default function index() {
             <h2>Receitas rápidas</h2>
           <p >
             Aqui você irá desfrutar de <br/>
-            comidas deliciosas, hlrgfuirg
+            Receitas deliciosas.
           </p>
           <Link href="/home">
           <a ><button className={styles.button}>CLIQUE PARA COZINHAR</button></a>
           </Link>
           </p>
-        <Image src="/frango.png" width={400} height={280} />
+        <Image src="/frango.png" width={400} height={250} />
         </ div>
       </main>
     </div>
