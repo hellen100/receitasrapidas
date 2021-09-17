@@ -11,7 +11,7 @@ function ModeloReceita4(){
          <div className={styles.container}>
 
           <div className={styles.div7}>  
-         <Image src="/foto4.png" width={400} height={280} /> 
+         <Image src="/foto4.png" layout='fill' objectFit='cover'/> 
          </div> 
 
         <h1>PIMENTÃO RECHEADO COM QUEIJO COTTAGE</h1>

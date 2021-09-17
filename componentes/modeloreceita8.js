@@ -9,7 +9,7 @@ function ModeloReceita8(){
         <>
         <div className={styles.container}>
          <div className={styles.div7}>
-         <Image src="/bolo.png" width={738} height={420} />
+         <Image src="/bolo.png" layout='fill' objectFit='cover'/>
          </div>
 
         <h1>Bolo de Cenoura</h1>

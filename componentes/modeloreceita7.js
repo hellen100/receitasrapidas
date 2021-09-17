@@ -10,7 +10,8 @@ function ModeloReceita7(){
          <div className={styles.container}>
              <div className={styles.div7}>
                 
-         <Image src="/lasanha.png" width={450} height={280} /></div>
+         <Image src="/lasanha.png" layout='fill' objectFit='cover'/>
+         </div>
         
         <h1>Lasanha</h1>
 
